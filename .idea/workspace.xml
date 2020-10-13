@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602614953370</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="  @Override&#10;    public boolean onOptionsItemSelected(MenuItem item) {&#10;        Intent infoIntent = new Intent(this, InfoActivity.class);&#10;        startActivity(infoIntent);&#10;        return super.onOptionsItemSelected(item);&#10;    }">
+      <created>1602615248104</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602615248104</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,18 +197,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="  @Override&#10;    public boolean onOptionsItemSelected(MenuItem item) {&#10;        Intent infoIntent = new Intent(this, InfoActivity.class);&#10;        startActivity(infoIntent);&#10;        return super.onOptionsItemSelected(item);&#10;    }" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="750" y="43" key="#com.intellij.ide.util.MemberChooser" timestamp="1602614423160">
+    <state x="750" y="43" key="#com.intellij.ide.util.MemberChooser" timestamp="1602615395527">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="750" y="43" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602614423160" />
+    <state x="750" y="43" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602615395527" />
     <state x="531" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1602418193525">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="531" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1602418193525" />
-    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1602614950367">
+    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1602615245705">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602614950367" />
+    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602615245705" />
     <state x="126" y="59" key="DiffContextDialog" timestamp="1602613998213">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
