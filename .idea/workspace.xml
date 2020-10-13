@@ -9,12 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="  @Override&#10;    public boolean onOptionsItemSelected(MenuItem item) {&#10;        Intent infoIntent = new Intent(this, InfoActivity.class);&#10;        startActivity(infoIntent);&#10;        return super.onOptionsItemSelected(item);&#10;    }">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +148,14 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="  @Override&#10;    public boolean onOptionsItemSelected(MenuItem item) {&#10;        Intent infoIntent = new Intent(this, InfoActivity.class);&#10;        startActivity(infoIntent);&#10;        return super.onOptionsItemSelected(item);&#10;    }">
+      <created>1602612252278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602612252278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,18 +163,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="  @Override&#10;    public boolean onOptionsItemSelected(MenuItem item) {&#10;        Intent infoIntent = new Intent(this, InfoActivity.class);&#10;        startActivity(infoIntent);&#10;        return super.onOptionsItemSelected(item);&#10;    }" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1602607968286">
+    <state x="750" y="43" key="#com.intellij.ide.util.MemberChooser" timestamp="1602613260154">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602607968286" />
+    <state x="750" y="43" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602613260154" />
     <state x="531" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1602418193525">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="531" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1602418193525" />
-    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1602612134453">
+    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1602612245966">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602612134453" />
+    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602612245966" />
     <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1602418148570">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -218,9 +223,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1602607645687" />
-    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602611509304">
+    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602613813646">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1602611509304" />
+    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1602613813646" />
   </component>
 </project>
