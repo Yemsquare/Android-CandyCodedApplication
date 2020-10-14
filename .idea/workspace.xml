@@ -204,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602668652893</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="  @Override&#10;    public boolean onOptionsItemSelected(MenuItem item) {&#10;        Intent infoIntent = new Intent(this, InfoActivity.class);&#10;        startActivity(infoIntent);&#10;        return super.onOptionsItemSelected(item);&#10;    }">
+      <created>1602676592476</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602676592476</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,10 +227,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="531" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1602418193525" />
-    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1602668645397">
+    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1602676589840">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602668645397" />
+    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602676589840" />
     <state x="126" y="59" key="DiffContextDialog" timestamp="1602613998213">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -276,9 +283,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1602668613158" />
-    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602613813646">
+    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602676983125">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1602613813646" />
+    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1602676983125" />
   </component>
 </project>
