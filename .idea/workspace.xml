@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +54,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_API_28" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-12T20:26:39.059Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-14T07:49:17.835Z" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
+  <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -189,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602615248104</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="  @Override&#10;    public boolean onOptionsItemSelected(MenuItem item) {&#10;        Intent infoIntent = new Intent(this, InfoActivity.class);&#10;        startActivity(infoIntent);&#10;        return super.onOptionsItemSelected(item);&#10;    }">
+      <created>1602617178101</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602617178101</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -205,10 +212,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="531" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1602418193525" />
-    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1602615245705">
+    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1602617170770">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602615245705" />
+    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602617170770" />
     <state x="126" y="59" key="DiffContextDialog" timestamp="1602613998213">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -257,10 +264,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="100" y="100" width="1166" height="568" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.768@0.0.1366.768" timestamp="1602526388478" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1602607645687">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1602668613158">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1602607645687" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1602668613158" />
     <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602613813646">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
